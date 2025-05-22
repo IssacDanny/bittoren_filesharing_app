@@ -544,23 +544,4 @@ def parse_torrent_file(torrent_file_path):
 - It parse the torrent file to obtain filename and tracker url.
 
 
-# VII. Conclusion
-
-Downloading large files, such as movies, music, games, or software, is a common
-and engaging activity made efficient by the BitTorrent communication protocol,
-which enables the distribution of large data chunks over the internet. In fact,
-approximately one-third of internet traffic consists of BitTorrent data packets, making
-it one of the most significant and widely-discussed topics in modern networking.
-
-In this project, we have implemented a simplified version of BitTorrent using the
-Python programming language. While BitTorrent has evolved significantly over the
-years with various versions in use, this implementation covers the core modules of a
-typical BitTorrent network, providing a useful introduction to how the protocol
-operates.
-
-Given the academic nature of this project, the code has not been tested in large-
-scale environments. We would greatly appreciate any feedback you may have,
-including the creation of issues or pull requests, should you encounter any problems
-or misunderstandings.
-
 
